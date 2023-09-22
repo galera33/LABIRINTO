@@ -1,0 +1,32 @@
+html, body {
+
+  background-image: url("https://i.imgur.com/La3MOqm.png");
+  background-repeat: no-repeat, repeat;
+  background-color: #000000;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+i1{
+  position: absolute;
+  left: 2%;
+  bottom: 2%;
+}
+
+i2{
+  position: absolute;
+  left: 20%;
+  bottom: 40%;
+}
+
+i3{
+  position: absolute;
+  left: 40%;
+  bottom: 40%;
+}
+
+i4{
+  position: absolute;
+  left: 60%;
+  bottom: 40%;
+}

@@ -1,0 +1,28 @@
+html, body {
+
+  background-image: url("https://i.imgur.com/BSmfNPk.png");
+  background-repeat: no-repeat, repeat;
+  background-color: #000000;
+  background-attachment: fixed;
+  background-position: left;
+}
+
+i1{
+  position: absolute;
+  left: 2%;
+  top: 2%;
+}
+
+t1{
+  position: absolute;
+  color: white;
+  right: 25%;
+  top:40%
+}
+
+t2{
+  position: absolute;
+  color: white;
+  right: 5%;
+  top:50%;
+}

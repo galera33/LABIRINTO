@@ -1,0 +1,14 @@
+html, body {
+
+  background-image: url("https://i.imgur.com/Vt260Nj.png");
+  background-repeat: no-repeat, repeat;
+  background-color: #000000;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+i1{
+  position: absolute;
+  left: 2%;
+  top: 2%;
+}

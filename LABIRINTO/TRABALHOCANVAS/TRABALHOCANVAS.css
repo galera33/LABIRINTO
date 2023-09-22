@@ -1,0 +1,39 @@
+canvas{
+  background: url("https://i.pinimg.com/474x/38/24/17/382417b60104d16330ea6933754a658b--aniversario-minecraft--bit.jpg");
+  background-size: 90px 50px;
+}
+
+canvas {
+  display: block;
+  margin: auto;
+  position: center;
+}
+
+button{
+  display: block;
+  margin: auto;
+}
+body{
+  background: url("https://i.imgur.com/4j2Zlko.png");
+  background-size: 100%;
+}
+
+i1{
+  position: absolute;
+  left: 0%;
+  top: 0%;
+}
+i2{
+  position: absolute;
+  right: 0%;
+  top: 0%;
+}
+l{
+  background: gray;
+  color: white;
+}
+
+z{
+  background: grey;
+  color: white;
+}
